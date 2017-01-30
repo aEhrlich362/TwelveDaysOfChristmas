@@ -1,0 +1,9 @@
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\bin\Debug\TwelveDaysOfChristmasWF.exe.config
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\obj\Debug\TwelveDaysOfChristmasWF.Properties.Resources.resources
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\obj\Debug\TwelveDaysOfChristmasWF.csproj.GenerateResource.Cache
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\bin\Debug\TwelveDaysOfChristmasWF.exe
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\bin\Debug\TwelveDaysOfChristmasWF.pdb
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\obj\Debug\TwelveDaysOfChristmasWF.Home.resources
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\obj\Debug\TwelveDaysOfChristmasWF.exe
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\obj\Debug\TwelveDaysOfChristmasWF.pdb
+C:\Users\Aaron\Documents\Visual Studio 2015\Projects\TwelveDaysOfChristmasWF\TwelveDaysOfChristmasWF\obj\Debug\TwelveDaysOfChristmasWF.csprojResolveAssemblyReference.cache
